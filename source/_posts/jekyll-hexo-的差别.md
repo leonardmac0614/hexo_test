@@ -8,4 +8,4 @@ photos:
 - https://www.hdwallpapers.net/previews/water-plant-close-up-979.jpg
 ---
 
-今日开贴 日后再说！
+jekyll 和hexo 整体来说各有优势，但都有不足。好在网络上总有大神在解决这些问题。
