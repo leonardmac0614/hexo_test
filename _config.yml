@@ -71,7 +71,7 @@ theme: icarus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
   type: git
-  repo: git@github.com:leonardmac0614/hexo_test.git
+  repo: https://github.com/leonardmac0614/leonardmac0614.github.io
   branch: master
 
 
