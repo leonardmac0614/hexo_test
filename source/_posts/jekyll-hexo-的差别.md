@@ -8,4 +8,7 @@ photos:
 - https://www.hdwallpapers.net/previews/water-plant-close-up-979.jpg
 ---
 
-jekyll 和hexo 整体来说各有优势，但都有不足。好在网络上总有大神在解决这些问题。
+## jekyll 和 hexo 在搭建个人博客上的各自优势于不足
+整体来说各有优势，但都有不足。好在网络上总有大神在解决这些问题。
+## jekyll：
+
