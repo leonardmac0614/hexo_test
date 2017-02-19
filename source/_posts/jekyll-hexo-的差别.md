@@ -1,5 +1,5 @@
 ---
-title: jekyll hexo 的差别
+title: 浅谈个人blog工具 jekyll hexo 
 date: 2017-02-19 15:15:15
 categories: 计算机技术
 thumbnail: http://p1.bpimg.com/567571/f91ccade61eddb9d.jpg
@@ -10,6 +10,7 @@ photos:
 
 ## jekyll 和 hexo 在搭建个人博客上的各自优势于不足
 整体来说各有优势，但都有不足。好在网络上总有大神在解决这些问题。
+<!-- more -->
 ## jekyll：
 1:方便github托管，便于多人多设备同步工作。
 2：操作相对hexo 较为简单.
