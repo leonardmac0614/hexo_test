@@ -9,16 +9,16 @@ photos:
 ---
 ### 最近想做的事情：
 
-[ ] 将个人站点封装成安卓app
+- [ ] 将个人站点封装成安卓app
 [Chrome调试Android应用（Debug)](http://ask.dcloud.net.cn/article/69)	
  Hbulider  java   xcode
 <!-- more -->
-[√]  Jekyll  & GitHub-papes create myblog
-[ ] Javascript china map:
+- [ ]  Jekyll  & GitHub-papes create myblog
+- [ ] Javascript china map:
 [highchart](https://www.hcharts.cn/demo/highcharts) [Echart](http://echarts.baidu.com/examples.html)
-[ ] Love html add images & audios
+- [ ] Love html add images & audios
 	HTML js css
-[ ] Jupyter plot
+-[ ] Jupyter plot
 
 ### 待读书籍作品
 

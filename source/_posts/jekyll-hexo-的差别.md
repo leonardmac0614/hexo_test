@@ -5,7 +5,7 @@ categories: 计算机技术
 thumbnail: http://p1.bpimg.com/567571/f91ccade61eddb9d.jpg
 tags: hexo jekyll
 photos:
-- https://www.hdwallpapers.net/previews/water-plant-close-up-979.jpg
+- http://static.runoob.com/images/demo/demo3.jpg
 ---
 
 ## jekyll 和 hexo 在搭建个人博客上的各自优势于不足
