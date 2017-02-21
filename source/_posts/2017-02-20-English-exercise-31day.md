@@ -2,7 +2,7 @@
 title:  English exercise
 date:   2017-02-20
 categories: 英语早操
-thumbnail: http://p1.bpimg.com/567571/7720b01fba7e27d6.png
+thumbnail: http://p1.bqimg.com/567571/7f05b600e435c0c9.jpg
 tags: English
 photos:
 - https://www.hdwallpapers.net/previews/solar-system-1007.jpg
