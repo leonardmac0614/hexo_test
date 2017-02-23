@@ -19,7 +19,7 @@ customize:
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
         author: leonardmac
         author_title: 工科狗
-        location: ShangHai, China
+        location: 中国 上海 #ShangHai, China
         follow: https://github.com/leonardmac0614/
     highlight: monokai
     sidebar: right # sidebar position, options: left, right
