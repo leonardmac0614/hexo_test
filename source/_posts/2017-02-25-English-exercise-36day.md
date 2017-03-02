@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2017-02-25
 categories: 英语早操
-thumbnail: http://www.hdwallpapers.in/walls/hailey_baldwin_4k_2017-wide.jpg
+thumbnail: https://www.hdwallpapers.net/previews/wolf-howling-at-the-moon-944.jpg
 tags: English
 photos:
-- http://www.hdwallpapers.in/walls/hailey_baldwin_4k_2017-wide.jpg
+- https://www.hdwallpapers.net/previews/wolf-howling-at-the-moon-944.jpg
 ---
 
 "Being nice to someone you dislike doesn’t mean you’re a hypocritical people. It means you’re mature enough to tolerate your dislike towards them. "
