@@ -14,6 +14,13 @@ leonardmac 最喜爱的声音
 <!-- more -->
 ## 网易云音乐
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=24405062&auto=0&height=430" ></iframe>
+
+## 自定义html播放器（带歌词）
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=100 src="https://music.daoapp.io/iframe?song=202373&qssl=1&qlrc=1&qnarrow=0&max_width=100%&autoplay=0" ></iframe>
+
+<!--<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=310 height=240 src="http://music.daoapp.io/player?song=36924429&qssl=1&autoplay=1&max_width=100%&narrow=0" style="position:fixed; left:0px; bottom:0px;"></iframe>
+-->
+
 ## 喜马拉雅-默默道来
 这是我最喜欢的电台，每周只打开喜马拉雅一次，就是为了听这个节目。现在订阅了默默道来，就可以在我的站点听最喜欢的电台了，哇咔咔。
 <object type="application/x-shockwave-flash" id="ximalaya_player" data="http://www.ximalaya.com/swf/album/blue.swf?id=258244" width="260" height="230"></object>
