@@ -18,7 +18,7 @@ layout: "page"
 * twitter: [leonard_mac0614](https://twitter.com/leonard_mac0614)
 * Github : [leonardmac0614](https://github.com/leonardmac0614)
 
-个人微信  
+个人微信
 
 ![个人微信](http://i1.piimg.com/567571/760c846f775d0675.jpg)
 
