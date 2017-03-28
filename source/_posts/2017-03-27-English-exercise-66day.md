@@ -1,6 +1,6 @@
 ---
 title:  English exercise
-date:   <title>
+date:   2017-03-27
 categories: 英语早操
 thumbnail: https://www.hdwallpapers.net/previews/funny-giraffe-704.jpg
 tags: English
