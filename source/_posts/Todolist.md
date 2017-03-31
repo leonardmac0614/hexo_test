@@ -13,12 +13,14 @@ photos:
 [Chrome调试Android应用（Debug)](http://ask.dcloud.net.cn/article/69)	
  Hbulider  java   xcode
 <!-- more -->
-- [ ]  Jekyll  & GitHub-papes create myblog
-- [ ] Javascript china map:
+- [√]  Jekyll  & GitHub-papes create myblog
+- [√] Javascript china map:
 [highchart](https://www.hcharts.cn/demo/highcharts) [Echart](http://echarts.baidu.com/examples.html)
-- [ ] Love html add images & audios
+- [√] Love html add images & audios
 	HTML js css
--[ ] Jupyter plot
+- [ ] Jupyter plot
+- [ ] 树莓派
+- [ ] mamp wamp web 网站部署
 
 ### 待读书籍作品
 
@@ -27,17 +29,19 @@ photos:
 [√] 《目送》
 [ ] 《牧羊少年奇幻之旅》
 [ ] 《维罗妮卡决定去死》
-[ ] 《天才在左 疯子在右》
+[√] 《天才在左 疯子在右》
 [ ] 《圣人请卸妆：历史就是重口味》
-[ ] 《徒步中国》
+[√] 《徒步中国》
 [ ] 《设计诗》
 [ ] 《爱你就像爱生命》
 [ ] 《月亮和六便士》
 [ ] 《当我谈跑步时我谈什么》
-[ ] 《亲爱的安德烈》
+[√] 《亲爱的安德烈》
 [ ] 《了不起的盖茨比》
 [ ] 《一个人的村庄》
 [√] 《亮剑》
+[ ] 《水浒传》
+[ ] 《三国演义》
 
 ### 待看电影
 
