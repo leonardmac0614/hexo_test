@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 在路上
+title: 李二狗的妖孽人生
 subtitle:
 favicon: favicon.ico
 description:
@@ -69,10 +69,7 @@ theme: icarus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy: 
+deploy:
   type: git
   repo: https://github.com/leonardmac0614/leonardmac0614.github.io
   branch: master
-
-
-
