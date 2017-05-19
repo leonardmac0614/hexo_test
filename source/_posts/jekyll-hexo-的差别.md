@@ -1,5 +1,5 @@
 ---
-title: 浅谈个人blog工具 jekyll hexo 
+title: 浅谈个人blog工具 jekyll hexo
 date: 2017-02-19 15:15:15
 categories: 计算机技术
 thumbnail: http://p1.bpimg.com/567571/f91ccade61eddb9d.jpg
@@ -20,4 +20,3 @@ photos:
 1：主题精美，深度开发，傻瓜操作。
 2: 基于git集成deploy，hexo deploy自动部署到GitHub。
 3：但是，不便于多设备同步工作，网上找了很多教程、很多别人的思路。第一、github上建立分支，同步hexo——blog下除了public 的所有文件，多设备工作时，先pull，再工作，然后push，hexo generate 、hexo deploy。第二、
-
