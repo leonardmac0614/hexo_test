@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2017-06-01
 categories: 英语早操
-thumbnail: http://d.hiphotos.baidu.com/zhidao/pic/item/838ba61ea8d3fd1f421a3c94354e251f95ca5f08.jpg
+thumbnail: https://www.hdwallpapers.net/previews/super-mario-bros-quote-1112.jpg
 tags: English
 photos:
-- http://d.hiphotos.baidu.com/zhidao/pic/item/838ba61ea8d3fd1f421a3c94354e251f95ca5f08.jpg
+- https://www.hdwallpapers.net/previews/super-mario-bros-quote-1112.jpg
 ---
 
 "There is no seven wonders of the world in the eyes of a child. There are seven million."
