@@ -2,7 +2,7 @@
 title:  English exercise
 date:   2017-05-30
 categories: 英语早操
-thumbnail: - http://img.laozuo.org/9.jpg
+thumbnail: http://img.laozuo.org/9.jpg
 tags: English
 photos:
 - http://img.laozuo.org/9.jpg
