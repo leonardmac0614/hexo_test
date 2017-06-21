@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2017-06-18
 categories: 英语早操
-thumbnail: https://pic3.zhimg.com/8e28180454090fe53267c26d1bb9fa52_b.jpg
+thumbnail: http://static.simpledesktops.com/uploads/desktops/2016/12/05/Untitled-1-03-01.png
 tags: English
 photos:
-- https://pic3.zhimg.com/8e28180454090fe53267c26d1bb9fa52_b.jpg
+- http://static.simpledesktops.com/uploads/desktops/2016/12/05/Untitled-1-03-01.png
 ---
 
 "Parents were invented to make children happy by giving them something to ignore."
