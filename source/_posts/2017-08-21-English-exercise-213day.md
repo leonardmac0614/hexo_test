@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2017-08-21
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-210701.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-87329.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-210701.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-87329.jpg
 ---
 
 "Every sweet has its sour; every evil its good."
