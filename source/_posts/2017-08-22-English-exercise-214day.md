@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2017-08-22
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-260617.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-90095.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-260617.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-90095.jpg
 ---
 
 "The knowledge of the world is only to be acquired in the world, and not in a closet."
