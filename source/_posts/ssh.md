@@ -5,7 +5,9 @@ tags: 计算机技术
 ---
 #### 1.ssh登录
 需要login另一台设备时，再命令行敲几个字母是不是很像黑客
+
 <!-- more -->
+
 > ssh pi@192.168.0.1
 
 ssh 加上设备用户名@ip地址即可
@@ -22,4 +24,3 @@ ssh 加上设备用户名@ip地址即可
 >         IdentityFile /Users/shuailong/.ssh/id_rsa
 
 星号替换为自己要ssh的==server ip==以及端口
-
