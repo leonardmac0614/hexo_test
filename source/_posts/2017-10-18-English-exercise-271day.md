@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2017-10-18
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-147593.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-576987.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-147593.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-576987.jpg
 ---
 
 "Enjoy present pleasures in such a way as not to injure future ones."

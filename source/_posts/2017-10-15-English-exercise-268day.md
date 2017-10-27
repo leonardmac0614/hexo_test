@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2017-10-15
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-181586.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-576988.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-181586.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-576988.jpg
 ---
 
 "Never trouble another for what you can do for yourself."
