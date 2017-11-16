@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2017-10-26
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-220651.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-580550.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-220651.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-580550.jpg
 ---
 
 "Keep your fears to yourself, but share your courage with others."
