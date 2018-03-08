@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-02-19
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-168473.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-147075.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-168473.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-147075.jpg
 ---
 
 "Idleness, like kisses, to be sweet must be stolen."
