@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-03-31
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-65905.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-636445.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-65905.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-636445.jpg
 ---
 
 "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends."
