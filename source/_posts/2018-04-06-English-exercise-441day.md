@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-04-06
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-424640.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-632744.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-424640.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-632744.jpg
 ---
 
 "If life were predictable it would cease to be life, and be without flavor."
