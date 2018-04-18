@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-04-16
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-228175.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-627516.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-228175.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-627516.jpg
 ---
 
 "Life is not a problem to be solved, but a reality to be experienced."

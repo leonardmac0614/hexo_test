@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-04-17
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-131502.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-626490.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-131502.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-626490.jpg
 ---
 
 "Always bear in mind that your own resolution to succeed is more important than any one thing."
