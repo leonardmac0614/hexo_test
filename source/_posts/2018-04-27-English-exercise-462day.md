@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-04-27
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-109482.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-8132.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-109482.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-8132.jpg
 ---
 
 "The sun goes down, the stars come out. And all that counts, is here and now."
