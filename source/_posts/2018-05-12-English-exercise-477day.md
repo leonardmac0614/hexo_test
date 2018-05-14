@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-05-12
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-304943.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-646674.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-304943.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-646674.jpg
 ---
 
 "No matter what anybody tells you, words and ideas can change the world."
