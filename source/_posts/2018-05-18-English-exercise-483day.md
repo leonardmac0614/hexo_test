@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-05-18
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-161919.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-656264.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-161919.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-656264.jpg
 ---
 
 "It isn't where you came from. It's where you're going that counts."
