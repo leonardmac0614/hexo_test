@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-05-22
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-237744.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-480911.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-237744.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-480911.jpg
 ---
 
 "Motivation comes from working on things we care about."
