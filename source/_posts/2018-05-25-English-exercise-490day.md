@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-05-25
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-456380.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-557342.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-456380.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-557342.jpg
 ---
 
 "Give everyday the chance to become the most beautiful day of your life."
