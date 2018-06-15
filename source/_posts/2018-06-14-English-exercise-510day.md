@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-06-14
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-146652.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-664722.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-146652.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-664722.jpg
 ---
 
 "Good friends, good books and a sleepy conscience: this is the ideal life."
