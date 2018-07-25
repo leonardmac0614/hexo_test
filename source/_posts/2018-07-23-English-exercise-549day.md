@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-07-23
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-52944.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-161523.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-52944.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-161523.jpg
 ---
 
 "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult."
