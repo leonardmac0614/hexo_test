@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-07-27
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-342434.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-681226.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-342434.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-681226.jpg
 ---
 
 "If you focus on what you left behind you will never see what lies ahead."
