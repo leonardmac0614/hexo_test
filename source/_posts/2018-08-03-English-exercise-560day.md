@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-08-03
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-204925.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-682357.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-204925.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-682357.jpg
 ---
 
 "It's a beautiful day. Don't let it get away."
