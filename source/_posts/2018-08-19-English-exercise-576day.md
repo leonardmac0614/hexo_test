@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-08-19
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-426084.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-686489.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-426084.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-686489.jpg
 ---
 
 "Had I not seen the Sun, I could have borne the shade."

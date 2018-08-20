@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-08-16
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-259745.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-686570.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-259745.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-686570.jpg
 ---
 
 "When we strive to become better than we are, everything around us becomes better too."
