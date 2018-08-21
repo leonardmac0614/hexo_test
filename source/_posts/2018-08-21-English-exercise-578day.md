@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-08-21
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-345739.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-686838.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-345739.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-686838.jpg
 ---
 
 "My heart, the bird of the wilderness, has found its sky in your eyes."
