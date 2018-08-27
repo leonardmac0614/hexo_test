@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-08-27
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-247012.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-283160.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-247012.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-283160.jpg
 ---
 
 "Like so many things, it is not what's outside, but what is inside that counts."
