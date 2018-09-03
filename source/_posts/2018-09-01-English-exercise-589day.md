@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-09-01
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-480284.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-691487.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-480284.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-691487.jpg
 ---
 
 "Try to remember the kind of September, when you were a tender and callow fellow."
