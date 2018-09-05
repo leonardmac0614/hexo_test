@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-09-05
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-449605.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-323309.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-449605.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-323309.jpg
 ---
 
 "Beauty is how you feel inside, and it reflects in your eyes."
