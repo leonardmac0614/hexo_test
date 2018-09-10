@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-09-06
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-248997.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-693597.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-248997.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-693597.jpg
 ---
 
 "I love you because the entire universe conspired to help me find you."
