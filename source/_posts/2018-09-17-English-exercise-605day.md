@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-09-17
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-273055.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-24727.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-273055.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-24727.jpg
 ---
 
 "We grow fearless when we do the things we fear."
