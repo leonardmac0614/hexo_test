@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-11-09
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-166585.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-713423.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-166585.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-713423.jpg
 ---
 
 "Keep love in your heart. A life without it is like a sunless garden when the flowers are dead."

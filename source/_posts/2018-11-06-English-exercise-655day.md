@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-11-06
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-15343.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-713421.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-15343.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-713421.jpg
 ---
 
 "Whatever our souls are made of, his and mine are the same."

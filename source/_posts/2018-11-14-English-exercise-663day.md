@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-11-14
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-257875.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-713424.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-257875.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-713424.jpg
 ---
 
 "I am beautiful no matter what they say. Words can't bring me down."

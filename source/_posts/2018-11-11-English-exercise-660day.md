@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-11-11
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-364451.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-713425.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-364451.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-713425.jpg
 ---
 
 "When I shop, the world gets better."
