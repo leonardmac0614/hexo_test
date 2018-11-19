@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-11-15
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-172480.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-714850.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-172480.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-714850.jpg
 ---
 
 "You don't have to be great to start, but you have to start to be great."

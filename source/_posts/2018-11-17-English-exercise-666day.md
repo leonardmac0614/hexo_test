@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-11-17
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-497852.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-714888.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-497852.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-714888.jpg
 ---
 
 "Kind words can be short and easy to speak, but their echoes are truly endless."
