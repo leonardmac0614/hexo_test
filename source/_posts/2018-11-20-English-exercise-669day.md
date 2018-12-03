@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-11-20
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-26448.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-380541.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-26448.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-380541.jpg
 ---
 
 "A book should serve as the ax for the frozen sea within us. "

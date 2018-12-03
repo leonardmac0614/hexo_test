@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-11-27
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-279017.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-76497.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-279017.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-76497.jpg
 ---
 
 "Guard well your thoughts when alone and your words when accompanied. "

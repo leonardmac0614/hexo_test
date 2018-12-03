@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-12-01
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-431597.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-144791.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-431597.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-144791.jpg
 ---
 
 "If you are always trying to be normal, you will never know how amazing you can be."
