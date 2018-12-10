@@ -2,10 +2,10 @@
 title:  English exercise
 date:   2018-12-09
 categories: 英语早操
-thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-220684.jpg
+thumbnail: https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-722108.jpg
 tags: English
 photos:
-- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-220684.jpg
+- https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-722108.jpg
 ---
 
 "There can be miracles when you believe. "
