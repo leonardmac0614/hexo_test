@@ -10,7 +10,7 @@ photos:
 ### 最近想做的事情：
 
 - [ ] 将个人站点封装成安卓app
-[Chrome调试Android应用（Debug)](http://ask.dcloud.net.cn/article/69)	
+[Chrome调试Android应用（Debug)](http://ask.dcloud.net.cn/article/69)
  Hbulider  java   xcode
 <!-- more -->
 - [√]  Jekyll  & GitHub-papes create myblog
@@ -19,8 +19,10 @@ photos:
 - [√] Love html add images & audios
 	HTML js css
 - [ ] Jupyter plot
-- [ ] 树莓派
+- [√] 树莓派
 - [ ] mamp wamp web 网站部署
+- [ ] python 学习
+- [ ] Django
 
 ### 待读书籍作品
 
@@ -40,9 +42,10 @@ photos:
 [ ] 《了不起的盖茨比》
 [ ] 《一个人的村庄》
 [√] 《亮剑》
-[ ] 《水浒传》
+[√] 《水浒传》
 [ ] 《三国演义》
 
 ### 待看电影
 
-[ ]你的名字</p>
+[ ] 你的名字
+[ ] 冲天
